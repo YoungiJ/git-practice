@@ -1,0 +1,7 @@
+fruit
+apple
+pear
+orange
+strawberry
+tomato
+lemon
