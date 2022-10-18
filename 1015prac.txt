@@ -1,5 +1,0 @@
-food
-noodle
-chicken
-pizza
-coffee
